@@ -10,10 +10,11 @@ subsequent self-observation and improvement.*
 
 
 ## Story:
-I want pomodoro application, available as desktop app for windows (as priority), mac os and linux. 
-I want it to contain planning features, so I can add features and track my activities on working on it
-I want features breakdown, to create atomic subtasks, So I can focus on them 
-Most existing pomodoro apps only track time ranges for pomodoro, not providing another tooling for technique.
+
+1. I want pomodoro application, available as desktop app for windows (as priority), mac os and linux. 
+2. want it to contain planning features, so I can add features and track my activities on working on it
+3. want features breakdown, to create atomic subtasks, So I can focus on them 
+4. Most existing pomodoro apps only track time ranges for pomodoro, not providing another tooling for technique.
 
 ## Reading: 
 	- https://en.wikipedia.org/wiki/Pomodoro_Technique

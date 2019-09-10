@@ -21,24 +21,23 @@ Most existing pomodoro apps only track time ranges for pomodoro, not providing a
 
 
 ## Features:
+- Run/Stop pomodoro
+- Create tasks
+- Import tasks for next day from google calendars/outlook/trello/whatever is also most popular now
+- Make large tasks breakdown
+- Allow next non-canonical stuff
+	- "prolong pomodoro" 5/10/15 minutes or smth - need to investigate, and make user facing tests (or make less distractive behavior, adding automatic prolongation feature). 
+	- "add distraction " 5/10/15 minutes, same as previous
+- Generate end day report, next day brief.
+- Select rest time, proposing predefined options based on prolonging patterns
+- Propose pomodoro duration adjustment, based on distraction patterns
 
-	- Run/Stop pomodoro
-	- Create tasks
-	- Import tasks for next day from google calendars/outlook/trello/whatever is also most popular now
-	- Make large tasks breakdown
-
-	- Allow next non-canonical stuff
-		○ "prolong pomodoro" 5/10/15 minutes or smth - need to investigate, and make user facing tests (or make less distractive behavior, adding automatic prolongation feature). 
-		○ "add distraction " 5/10/15 minutes, same as previous
-	- Generate end day report, next day brief.
-	- Select rest time, proposing predefined options based on prolonging patterns
-	- Propose pomodoro duration adjustment, based on distraction patterns
 
 ## Probably appreciated features:
-  - Call distraction: add some use to it, making possible to add calling time and short meeting minutes and adding
+- Call distraction: add some use to it, making possible to add calling time and short meeting minutes and adding
   new emerging tasks
-	- Tasks export to trello/outlook/whatever
-	- Add cheering productivity integration (e.g commits in github, etc), trello tasks closed,
+- Tasks export to trello/outlook/whatever
+- Add cheering productivity integration (e.g commits in github, etc), trello tasks closed,
 	
 
 ## Application examples:

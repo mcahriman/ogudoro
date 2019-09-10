@@ -54,11 +54,11 @@ https://gnomepomodoro.org/
 	- Only for linux
 ### YAPA
 https://github.com/YetAnotherPomodoroApp/YAPA-2:
-	- Pros:
-		- Neat
-	- Cons:
-		- No tasks
-		- Useless pomodoro report, hidden somewhere in configuration
+- Pros:
+	- Neat
+- Cons:	
+	- No tasks
+	- Useless pomodoro report, hidden somewhere in configuration
     
  
 # MVP attributes:
